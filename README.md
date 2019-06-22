@@ -1,2 +1,0 @@
-# MikesReactSandbox
-Created with CodeSandbox
